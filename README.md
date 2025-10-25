@@ -1,5 +1,10 @@
 # 🌌 Lumina - Modern Framework for Python
 
+![Python](https://img.shields.io/badge/python-3.11+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20macOS-lightgrey)
+![Status](https://img.shields.io/badge/status-Alpha-orange)
+
 > A modern, lightweight, **pygame successor** built with ❤️ in Python.  
 > Designed for performance, modularity, and beauty - powered by **ModernGL + GLFW + CSS-like UI styling**.
 
