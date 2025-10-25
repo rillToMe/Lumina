@@ -78,7 +78,7 @@ python -m examples.demo
 
 ## 📸 Screenshot
 
-![Lumina Demo](examples/assets/screenshot.png)
+![Lumina Demo](examples/assets/demo.png)
 
 > The `demo.py` scene showcases sprites, tilemaps, particles, and CSS-styled UI.
 
