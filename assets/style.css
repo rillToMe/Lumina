@@ -1,0 +1,23 @@
+Row.toolbar {
+  background: #111827;
+  color: #ffffff;
+  padding: 10;
+  radius: 10;
+  gap: 12;
+  direction: row;
+}
+
+Button.primary {
+  background: #7c3aed;
+  color: #ffffff;
+  padding: 12;
+  radius: 10;
+  font-size: 20;
+}
+
+Button.secondary {
+  background: #22d3ee;
+  color: #0f172a;
+  padding: 10;
+  radius: 8;
+}

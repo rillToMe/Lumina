@@ -1,0 +1,7 @@
+moderngl 
+glfw 
+Pillow 
+tinycss2 
+numpy 
+sounddevice 
+soundfile
