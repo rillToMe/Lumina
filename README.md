@@ -1,4 +1,4 @@
-# 🌌 Lumina - Modern Game Framework for Python
+# 🌌 Lumina - Modern Framework for Python
 
 > A modern, lightweight, **pygame successor** built with ❤️ in Python.  
 > Designed for performance, modularity, and beauty - powered by **ModernGL + GLFW + CSS-like UI styling**.
