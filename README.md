@@ -128,7 +128,7 @@ app.run()
 ---
 
 ## 🪄 License
-MIT License © 2025 - Feel free to fork, hack, and create your world with **Lumina** 💜
+MIT License © 2025 - Feel free to fork, hack, and create your world with **Lumina** 💜. 
 
 ---
 
